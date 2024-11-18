@@ -12,6 +12,6 @@ Follow the guide on the [Wiki](https://github.com/TheTechWiz5305/MirrorVR/wiki).
 ## Credits
 - MirrorVR Package - THeTechWiz5305 and Shad0w
 - Mirror base networking system - Mirror Networking/vis2k
-- Epic Online Transport - FakeByte and Katone
+- Epic Online Transport - FakeByte, Katone, Ludogram, and Shad0w
 - Logo - Bucket Boy Jay and Anemunt
 - Default Player Model - Monkeᴰᵉᵛ
