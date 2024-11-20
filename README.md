@@ -9,6 +9,20 @@ BUT there is a catch. Mirror is P2P networking, so when the host disconnects, th
 ## Installation
 Follow the guide on the [Wiki](https://github.com/TheTechWiz5305/MirrorVR/wiki).
 
+## Supported Editor Devices
+__Supported and tested:__
+- Windows 11 64 bit
+- MacOS (ARM-based)
+
+__Untested but *should* be supported:__
+- Windows 10 64 bit
+- Windows 11 32 bit
+- Windows 10 32 bit
+- MacOS (Intel-based)
+
+__Unsupported:__
+- Linux
+
 ## Credits
 - MirrorVR Package - THeTechWiz5305 and Shad0w
 - Mirror base networking system - Mirror Networking/vis2k
