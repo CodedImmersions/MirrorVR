@@ -12,16 +12,17 @@ Follow the guide on the [Wiki](https://github.com/TheTechWiz5305/MirrorVR/wiki).
 ## Supported Editor Devices
 __Supported and tested:__
 - Windows 11 64 bit
-- MacOS (ARM-based)
+
 
 __Untested but *should* be supported:__
 - Windows 10 64 bit
 - Windows 11 32 bit
 - Windows 10 32 bit
-- MacOS (Intel-based)
 
 __Unsupported:__
 - Linux
+- MacOS (ARM-based)*
+- MacOS (Intel-based)*
 
 ## Credits
 - MirrorVR Package - THeTechWiz5305 and Shad0w
@@ -30,3 +31,6 @@ __Unsupported:__
 - Logo - Bucket Boy Jay and Anemunt
 - Player Data Storage Utils - PlayerEveryWare
 - Default Player Model - Monkeᴰᵉᵛ
+
+
+<sub>*_Not supported because of the Meta XR SDK, as the Meta Platform SDK isn't compatible with Mac._</sub>
