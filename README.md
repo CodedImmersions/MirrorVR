@@ -29,7 +29,7 @@ __Unsupported:__
 - Mirror base networking system - Mirror Networking/vis2k
 - Epic Online Transport - FakeByte, Katone, Ludogram, and Shad0w
 - Logo - Bucket Boy Jay and Anemunt
-- Player Data Storage Utils - PlayerEveryWare
+- Player Data Storage Utils - PlayEveryWare
 - Default Player Model - Monkeᴰᵉᵛ
 
 
