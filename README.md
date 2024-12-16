@@ -1,3 +1,5 @@
+<a href="https://github.com/Glitched-Cat-Studios/MirrorVR/releases"><img src="https://img.shields.io/badge/download-brightgreen.svg?style=for-the-badge&logo=github&colorA=363a4f&colorB=f5a97e" alt="Releases"></a>
+
 # MirrorVR
 
 MirrorVR is a put-together package of a VR version of [Mirror](https://github.com/MirrorNetworking/Mirror) that is not out yet but is in development.
