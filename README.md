@@ -1,4 +1,5 @@
-<a href="https://github.com/Glitched-Cat-Studios/MirrorVR/releases"><img src="https://img.shields.io/badge/download-brightgreen.svg?style=for-the-badge&logo=github&colorA=363a4f&colorB=f5a97e" alt="Releases"></a>
+<a href="https://github.com/Glitched-Cat-Studios/MirrorVR/releases"><img src="https://img.shields.io/badge/releases-brightgreen.svg?style=for-the-badge&logo=github&colorA=363a4f&colorB=3c80e6" alt="Releases"></a>
+<a href="https://discord.gg/gcsdevhub"><img src="https://img.shields.io/badge/discord-brightgreen.svg?style=for-the-badge&logo=discord&colorA=23272a&colorB=7289da" alt="Join our Discord!"></a>
 
 # MirrorVR
 
