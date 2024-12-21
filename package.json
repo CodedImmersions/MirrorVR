@@ -1,0 +1,23 @@
+{
+  "name": "com.GlitchedCatStudios.MirrorVR",
+  "version": "0.1.0",
+  "displayName": "MirrorVR",
+  "description": "A VR system for Mirror Networking, that makes it easier to develop VR games with Mirror in Unity.",
+  "unity": "2022.3",
+  "unityRelease": "0",
+  "documentationUrl": "https://github.com/Glitched-Cat-Studios/MirrorVR/wiki",
+  "changelogUrl": "https://github.com/Glitched-Cat-Studios/MirrorVR/releases",
+  "licensesUrl": "https://example.com/licensing.html",
+  "dependencies": {
+    "com.unity.nuget.newtonsoft-json": "3.2.1"
+ },
+ "keywords": [
+    "Mirror",
+    "VR",
+    "Networking"
+  ],
+  "author": {
+    "name": "Glitched Cat Studios",
+    "email": "glitchedcatstudios@gmail.com"
+  }
+}
