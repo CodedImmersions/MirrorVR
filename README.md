@@ -11,6 +11,9 @@ But, there is a catch. Mirror is P2P networking, so when the host disconnects, t
 ## Installation
 Follow the guide on the [Wiki](https://github.com/TheTechWiz5305/MirrorVR/wiki).
 
+> [!WARNING]
+> This package depends the latest [Meta XR SDK](https://assetstore.unity.com/packages/tools/integration/meta-xr-all-in-one-sdk-269657?srsltid=AfmBOoqaIk8XL6_fN20qTeMZbbFJfQZXEOE8etJo9NbEdOJ9HVmnk-Jm)
+
 ## Supported Editor Devices
 __Supported and tested:__
 - Windows 11 64 bit
