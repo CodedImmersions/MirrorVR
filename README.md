@@ -33,6 +33,7 @@ __Unsupported:__
 - MirrorVR Package - THeTechWiz5305 and Shad0w
 - Mirror base networking system - Mirror Networking/vis2k
 - Epic Online Transport - FakeByte, Katone, Ludogram, and Shad0w
+- [MetaVoiceChat](https://github.com/Metater/MetaVoiceChat) - Metater
 - Logo - Bucket Boy Jay and Anemunt
 - Player Data Storage Utils - PlayEveryWare
 - Default Player Model - Monkeᴰᵉᵛ
