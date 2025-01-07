@@ -12,12 +12,15 @@ But, there is a catch. Mirror is P2P networking, so when the host disconnects, t
 Follow the guide on the [Wiki](https://github.com/TheTechWiz5305/MirrorVR/wiki).
 
 > [!WARNING]
-> This package depends on the latest [Meta XR SDK](https://assetstore.unity.com/packages/tools/integration/meta-xr-all-in-one-sdk-269657?srsltid=AfmBOoqaIk8XL6_fN20qTeMZbbFJfQZXEOE8etJo9NbEdOJ9HVmnk-Jm)
+> This package depends on the latest [Meta XR SDK](https://assetstore.unity.com/packages/tools/integration/meta-xr-all-in-one-sdk-269657?srsltid=AfmBOoqaIk8XL6_fN20qTeMZbbFJfQZXEOE8etJo9NbEdOJ9HVmnk-Jm) for Oculus support.
 
-## Supported Editor Devices
+## Supported Devices
+### Runtime:
+- Meta Quest 2/Pro/3/3S (Android)
+
+### Editor:
 __Supported and tested:__
 - Windows 11 64 bit
-
 
 __Untested but *should* be supported:__
 - Windows 10 64 bit
@@ -40,3 +43,6 @@ __Unsupported:__
 
 
 <sub>*_Not supported because of the Meta XR SDK, as the Meta Platform SDK isn't compatible with Mac._</sub>
+
+## Planned things for the future
+- Steam Support
