@@ -32,7 +32,7 @@ __Unsupported:__
 ## Credits
 - MirrorVR Package - THeTechWiz5305 and Shad0w
 - [Mirror](https://github.com/MirrorNetworking/Mirror) - Mirror Networking/vis2k
-- Epic Online Transport - FakeByte, Katone, Ludogram, and Shad0w
+- [Epic Online Transport](https://github.com/WeLoveJesusChrist/EOSTransport) - FakeByte, Katone, Ludogram, TNTube, and Shad0w
 - [MetaVoiceChat](https://github.com/Metater/MetaVoiceChat) - Metater
 - Logo - Bucket Boy Jay and Anemunt
 - Player Data Storage Utils - PlayEveryWare
