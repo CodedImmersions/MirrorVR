@@ -12,7 +12,7 @@ But, there is a catch. Mirror is P2P networking, so when the host disconnects, t
 Follow the guide on the [Wiki](https://github.com/TheTechWiz5305/MirrorVR/wiki).
 
 > [!WARNING]
-> This package depends the latest [Meta XR SDK](https://assetstore.unity.com/packages/tools/integration/meta-xr-all-in-one-sdk-269657?srsltid=AfmBOoqaIk8XL6_fN20qTeMZbbFJfQZXEOE8etJo9NbEdOJ9HVmnk-Jm)
+> This package depends on the latest [Meta XR SDK](https://assetstore.unity.com/packages/tools/integration/meta-xr-all-in-one-sdk-269657?srsltid=AfmBOoqaIk8XL6_fN20qTeMZbbFJfQZXEOE8etJo9NbEdOJ9HVmnk-Jm)
 
 ## Supported Editor Devices
 __Supported and tested:__
@@ -31,7 +31,7 @@ __Unsupported:__
 
 ## Credits
 - MirrorVR Package - THeTechWiz5305 and Shad0w
-- Mirror base networking system - Mirror Networking/vis2k
+- [Mirror Networking](https://github.com/MirrorNetworking/Mirror) - Mirror Networking/vis2k
 - Epic Online Transport - FakeByte, Katone, Ludogram, and Shad0w
 - [MetaVoiceChat](https://github.com/Metater/MetaVoiceChat) - Metater
 - Logo - Bucket Boy Jay and Anemunt
