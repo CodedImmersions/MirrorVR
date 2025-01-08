@@ -16,7 +16,7 @@ Follow the guide on the [Wiki](https://github.com/TheTechWiz5305/MirrorVR/wiki).
 
 ## Supported Devices
 ### Runtime:
-- Meta Quest 2/Pro/3/3S (Android)
+- Meta Quest 1/2/Pro/3/3S (Android)
 
 ### Editor:
 __Supported and tested:__
