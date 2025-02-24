@@ -4,9 +4,7 @@
 
 # MirrorVR
 
-MirrorVR is a put-together package of a VR version of [Mirror](https://github.com/MirrorNetworking/Mirror) that is not out yet but is in development.
-
-But, there is a catch. Mirror is P2P networking, so when the host disconnects, the whole room disconnects, because everything relies on the host/server. We are working on a fix, by coding in host migration into the package.
+MirrorVR is an extension of [Mirror](https://github.com/MirrorNetworking/Mirror) that adds easy VR support.
 
 ## Installation
 Follow the guide on the [Wiki](https://github.com/TheTechWiz5305/MirrorVR/wiki).
@@ -17,7 +15,7 @@ Follow the guide on the [Wiki](https://github.com/TheTechWiz5305/MirrorVR/wiki).
 ## Supported Devices
 ### Runtime:
 - Meta Quest 1/2/Pro/3/3S (Android)
-- Oculus Rift (S) (not tested)
+- Oculus Rift (not tested)
 
 ### Editor:
 __Supported and tested:__
@@ -29,7 +27,7 @@ __Untested but *should* be supported:__
 - Windows 10 32 bit
 
 __Unsupported:__
-- Linux
+- Linux*
 - MacOS (ARM-based)*
 - MacOS (Intel-based)*
 
