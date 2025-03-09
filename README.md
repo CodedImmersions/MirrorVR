@@ -36,8 +36,8 @@ __Unsupported:__
 - MacOS (Intel-based)*
 
 ## Credits
-- MirrorVR Package - THeTechWiz5305 and Shad0w
-- [Mirror](https://github.com/MirrorNetworking/Mirror) - Mirror Networking/vis2k
+- MirrorVR Package - [THeTechWiz5305](https://github.com/TheTechWiz5305) and [Shad0w](https://github.com/ShAdowDev16)
+- [Mirror](https://github.com/MirrorNetworking/Mirror) - Mirror Networking Team
 - [Epic Online Transport](https://github.com/WeLoveJesusChrist/EOSTransport) - FakeByte, Katone, Ludogram, TNTube, and Shad0w
 - [MetaVoiceChat](https://github.com/Metater/MetaVoiceChat) - Metater
 - Logo - Bucket Boy Jay and Anemunt
