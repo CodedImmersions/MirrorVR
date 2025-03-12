@@ -27,7 +27,6 @@ __Supported and tested:__
 
 __Untested but *should* be supported:__
 - Windows 10 64 bit
-- Windows 11 32 bit
 - Windows 10 32 bit
 
 __Unsupported:__
