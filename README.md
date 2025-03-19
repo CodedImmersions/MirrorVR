@@ -22,17 +22,13 @@ Follow the guide on the [Wiki](https://github.com/TheTechWiz5305/MirrorVR/wiki).
 - Oculus Rift (not tested)
 
 ### Editor:
-__Supported and tested:__
-- Windows 11 64 bit
-
-__Untested but *should* be supported:__
-- Windows 10 64 bit
+__Supported:__
+- Windows 10/11 64 bit
 - Windows 10 32 bit
+- MacOS Intel/ARM
 
 __Unsupported:__
 - Linux*
-- MacOS (ARM-based)*
-- MacOS (Intel-based)*
 
 ## Credits
 - MirrorVR Package - [THeTechWiz5305](https://github.com/TheTechWiz5305) and [Shad0w](https://github.com/ShAdowDev16)
@@ -44,7 +40,7 @@ __Unsupported:__
 - Default Player Model - Monkeᴰᵉᵛ
 
 
-<sub>*_Not supported because of the Meta XR SDK, as the Meta Platform SDK isn't compatible with Mac._</sub>
+<sub>*_Not supported because of the Meta XR SDK, as the Meta Platform SDK isn't compatible with Linux._</sub>
 
 ## Planned things for the future
 - Steam Support
