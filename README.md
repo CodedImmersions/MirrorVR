@@ -23,8 +23,7 @@ Follow the guide on the [Wiki](https://github.com/TheTechWiz5305/MirrorVR/wiki).
 
 ### Editor:
 __Supported:__
-- Windows 10/11 64 bit
-- Windows 10 32 bit
+- Windows 10/11
 - MacOS Intel/ARM*
 
 __Unsupported:__
@@ -43,5 +42,12 @@ __Unsupported:__
 
 <sub>**_Not supported because of the Meta XR SDK, as the Meta Platform SDK isn't compatible with Linux._</sub>
 
-## Planned things for the future
-- Steam Support
+## Features (WIP)
+- [X] Oculus login with Authentication
+- [X] Cross-Platform Multiplayer Support
+- [X] Usernames
+- [X] Join Lobbies via Name
+- [X] Banning (aka Sanctions)
+- [ ] Colors
+- [ ] Cosmetics
+- [ ] Steam Login Support
