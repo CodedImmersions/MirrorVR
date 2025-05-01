@@ -25,10 +25,10 @@ Follow the guide on the [Wiki](https://github.com/TheTechWiz5305/MirrorVR/wiki).
 __Supported:__
 - Windows 10/11 64 bit
 - Windows 10 32 bit
-- MacOS Intel/ARM
+- MacOS Intel/ARM*
 
 __Unsupported:__
-- Linux*
+- Linux**
 
 ## Credits
 - MirrorVR Package - [THeTechWiz5305](https://github.com/TheTechWiz5305) and [Shad0w](https://github.com/ShAdowDev16)
@@ -39,8 +39,9 @@ __Unsupported:__
 - Player Data Storage Utils - PlayEveryWare
 - Default Player Model - Monkeᴰᵉᵛ
 
+<sub>*_Supported with EOS Account Authentication_</sub>
 
-<sub>*_Not supported because of the Meta XR SDK, as the Meta Platform SDK isn't compatible with Linux._</sub>
+<sub>**_Not supported because of the Meta XR SDK, as the Meta Platform SDK isn't compatible with Linux._</sub>
 
 ## Planned things for the future
 - Steam Support
