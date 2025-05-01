@@ -7,8 +7,8 @@
 MirrorVR is an extension of [Mirror](https://github.com/MirrorNetworking/Mirror) that adds easy VR support.
 
 > [!IMPORTANT]
-> ## _COMING SOON_
-> Join the Discord (https://discord.gg/WdbyPcSw7Z) for more updates!
+> ## _EARLY ACCESS IS HERE_
+> Join the Discord (https://discord.gg/WdbyPcSw7Z) for more information!
 
 ## Installation
 Follow the guide on the [Wiki](https://github.com/TheTechWiz5305/MirrorVR/wiki).
