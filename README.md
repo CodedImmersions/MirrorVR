@@ -18,8 +18,13 @@ Follow the guide on the [Wiki](https://github.com/TheTechWiz5305/MirrorVR/wiki).
 
 ## Why MirrorVR?
 |Feature|MirrorVR|PhotonVR|
-|--------|--------|--------|
-|Cost|100% free ✅|20 CCU free, after that expensive ❌|
+|-------|--------|--------|
+|Cost|100% free ✅|20 CCU free, after that very expensive ❌|
+|Cosmetics|Server-side validation before equipping ✅|Insecure and fully client sided ❌|
+|Login|Uses EOS, has Oculus account validation, rate-limiting ✅|Easily can be mimicked and spammed ❌|
+|Efficiency|Fast 🔥|Slow, PUN servers aren't best for speed ❌|
+|Bandwidth|Unlimited ✅|60 GB free / month ❌|
+|CCU (Concurrent Users)|Max 64 players per lobby, unlimited lobbies ✅|20 max free CCU ❌|
 
 ## Supported Devices
 ### Runtime:
@@ -53,6 +58,7 @@ __Unsupported:__
 - [X] Usernames
 - [X] Join Lobbies via Name
 - [X] Banning (aka Sanctions)
+- [ ] Host Migration (WIP)
 - [ ] Colors
 - [ ] Cosmetics
 - [ ] Steam Login Support
