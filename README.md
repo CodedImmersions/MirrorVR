@@ -16,6 +16,11 @@ Follow the guide on the [Wiki](https://github.com/TheTechWiz5305/MirrorVR/wiki).
 > [!WARNING]
 > This package depends on the latest [Meta XR SDK](https://assetstore.unity.com/packages/tools/integration/meta-xr-all-in-one-sdk-269657?srsltid=AfmBOoqaIk8XL6_fN20qTeMZbbFJfQZXEOE8etJo9NbEdOJ9HVmnk-Jm) for Oculus support.
 
+## Why MirrorVR?
+|Feature|MirrorVR|PhotonVR|
+|--------|--------|--------|
+|Cost|100% free ✅|20 CCU free, after that expensive ❌|
+
 ## Supported Devices
 ### Runtime:
 - Meta Quest 1/2/Pro/3/3S (Android)
