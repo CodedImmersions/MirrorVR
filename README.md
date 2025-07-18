@@ -58,7 +58,7 @@ __Unsupported:__
 - [X] Usernames
 - [X] Join Lobbies via Name
 - [X] Banning (aka Sanctions)
+- [X] Colors
 - [ ] Host Migration (WIP)
-- [ ] Colors
 - [ ] Cosmetics
 - [ ] Steam Login Support
