@@ -1,23 +1,26 @@
 {
   "name": "com.MirrorVR.MirrorVR",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "displayName": "MirrorVR",
   "description": "A VR system for Mirror Networking, that makes it easier to develop VR games with Mirror in Unity.",
-  "unity": "2022.3",
-  "unityRelease": "0",
+  "unity": "2021.3",
+  "unityRelease": "35",
   "documentationUrl": "https://github.com/MirrorVR/MirrorVR/wiki",
   "changelogUrl": "https://github.com/MirrorVR/MirrorVR/releases",
-  "licensesUrl": "https://example.com/licensing.html",
   "dependencies": {
     "com.unity.nuget.newtonsoft-json": "3.2.1"
  },
  "keywords": [
     "Mirror",
     "VR",
-    "Networking"
+    "Networking",
+    "Photon",
+    "PUN",
+    "Fusion",
+    "FishNet"
   ],
   "author": {
-    "name": "THeTechWiz5305",
+    "name": "MirrorVR",
     "email": "glitchedcatstudios@gmail.com"
   }
 }
