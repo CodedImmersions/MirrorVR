@@ -13,9 +13,6 @@ MirrorVR is an extension of [Mirror](https://github.com/MirrorNetworking/Mirror)
 ## Installation
 Follow the guide on the [Wiki](https://github.com/TheTechWiz5305/MirrorVR/wiki).
 
-> [!WARNING]
-> This package depends on the latest [Meta XR SDK](https://assetstore.unity.com/packages/tools/integration/meta-xr-all-in-one-sdk-269657?srsltid=AfmBOoqaIk8XL6_fN20qTeMZbbFJfQZXEOE8etJo9NbEdOJ9HVmnk-Jm) for Oculus support.
-
 ## Why MirrorVR?
 |Feature|MirrorVR|PhotonVR|
 |-------|--------|--------|
@@ -35,9 +32,10 @@ Follow the guide on the [Wiki](https://github.com/TheTechWiz5305/MirrorVR/wiki).
 __Supported:__
 - Windows 10/11
 - MacOS Intel/ARM*
+- Linux*
 
 __Unsupported:__
-- Linux**
+
 
 ## Credits
 - MirrorVR Package - [THeTechWiz5305](https://github.com/TheTechWiz5305) and [Shad0w](https://github.com/ShAdowDev16)
@@ -50,8 +48,6 @@ __Unsupported:__
 
 <sub>*_Supported with EOS Account Authentication_</sub>
 
-<sub>**_Not supported because of the Meta XR SDK, as the Meta Platform SDK isn't compatible with Linux._</sub>
-
 ## Features (WIP)
 - [X] Oculus login with Authentication
 - [X] Cross-Platform Multiplayer Support
@@ -59,6 +55,6 @@ __Unsupported:__
 - [X] Join Lobbies via Name
 - [X] Banning (aka Sanctions)
 - [X] Colors
-- [ ] Host Migration (WIP)
+- [X] Host Migration (WIP)
 - [ ] Cosmetics
 - [ ] Steam Login Support
