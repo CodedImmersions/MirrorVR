@@ -1,6 +1,6 @@
-<a href="https://github.com/Glitched-Cat-Studios/MirrorVR/releases"><img src="https://img.shields.io/badge/releases-brightgreen.svg?style=for-the-badge&logo=github&colorA=363a4f&colorB=3c80e6" alt="Releases"></a>
+<a href="https://github.com/MirrorVR/MirrorVR/releases"><img src="https://img.shields.io/badge/releases-brightgreen.svg?style=for-the-badge&logo=github&colorA=363a4f&colorB=3c80e6" alt="Releases"></a>
 <a href="https://discord.gg/WdbyPcSw7Z"><img src="https://img.shields.io/badge/discord-brightgreen.svg?style=for-the-badge&logo=discord&colorA=23272a&colorB=7289da" alt="Join our Discord!"></a>
-<a href="https://github.com/Glitched-Cat-Studios/MirrorVR/wiki"><img src="https://img.shields.io/badge/docs-brightgreen.svg?style=for-the-badge&logo=gitbook&colorA=2a292e&colorB=673de3" alt="Takes you to our GitHub wiki page."></a>
+<a href="https://mirrorvr.gitbook.io"><img src="https://img.shields.io/badge/docs-brightgreen.svg?style=for-the-badge&logo=gitbook&colorA=2a292e&colorB=673de3" alt="Takes you to our Gitbook wiki page."></a>
 
 # MirrorVR
 
@@ -11,7 +11,7 @@ MirrorVR is an extension of [Mirror](https://github.com/MirrorNetworking/Mirror)
 > Join the Discord (https://discord.gg/WdbyPcSw7Z) to apply for Early Access!
 
 ## Installation
-Follow the guide on the [Wiki](https://github.com/TheTechWiz5305/MirrorVR/wiki).
+Follow the guide on the [Wiki](https://mirrorvr.gitbook.io/docs/manual/getting-started).
 
 ## Why MirrorVR?
 |Feature|MirrorVR|PhotonVR|
@@ -26,7 +26,7 @@ Follow the guide on the [Wiki](https://github.com/TheTechWiz5305/MirrorVR/wiki).
 ## Supported Devices
 ### Runtime:
 - Meta Quest 2/Pro/3/3S (Android)
-- Oculus Rift (not tested)
+- Oculus Rift (S) (not tested)
 
 ### Editor:
 __Supported:__
@@ -35,12 +35,12 @@ __Supported:__
 - Linux*
 
 __Unsupported:__
-
+- N/A
 
 ## Credits
 - MirrorVR Package - [THeTechWiz5305](https://github.com/TheTechWiz5305) and [Shad0w](https://github.com/ShAdowDev16)
 - [Mirror](https://github.com/MirrorNetworking/Mirror) - Mirror Networking Team
-- [Epic Online Transport](https://github.com/WeLoveJesusChrist/EOSTransport) - FakeByte, Katone, Ludogram, TNTube, and Shad0w
+- [EOS Transport](https://github.com/WeLoveJesusChrist/EOSTransport) - FakeByte, Katone, Ludogram, TNTube, and Shad0w
 - [MetaVoiceChat](https://github.com/Metater/MetaVoiceChat) - Metater
 - Logo - Bucket Boy Jay and Anemunt
 - Player Data Storage Utils - PlayEveryWare
@@ -56,5 +56,5 @@ __Unsupported:__
 - [X] Banning (aka Sanctions)
 - [X] Colors
 - [X] Host Migration (WIP)
-- [ ] Cosmetics
+- [X] Cosmetics
 - [ ] Steam Login Support
