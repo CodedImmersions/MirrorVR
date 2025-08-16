@@ -1,6 +1,6 @@
 {
   "name": "com.mirrorvr.mirrorvr",
-  "version": "0.1.3",
+  "version": "0.2.1",
   "displayName": "MirrorVR",
   "description": "A VR system for Mirror Networking, that makes it easier to develop VR games with Mirror in Unity.",
   "unity": "2021.3",
@@ -24,3 +24,4 @@
     "email": "glitchedcatstudios@gmail.com"
   }
 }
+
