@@ -5,7 +5,7 @@
   "description": "A VR system for Mirror Networking, that makes it easier to develop VR games with Mirror in Unity.",
   "unity": "2021.3",
   "unityRelease": "35",
-  "documentationUrl": "https://github.com/MirrorVR/MirrorVR/wiki",
+  "documentationUrl": "https://mirrorvr.gitbook.io",
   "changelogUrl": "https://github.com/MirrorVR/MirrorVR/releases",
   "dependencies": {
     "com.unity.nuget.newtonsoft-json": "3.2.1"
@@ -24,4 +24,5 @@
     "email": "glitchedcatstudios@gmail.com"
   }
 }
+
 
