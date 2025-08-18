@@ -24,18 +24,10 @@ Follow the guide on the [Wiki](https://mirrorvr.gitbook.io/docs/manual/getting-s
 |CCU (Concurrent Users)|Max 64 players per lobby, unlimited lobbies ✅|20 max free CCU ❌|
 
 ## Supported Devices
-### Runtime:
-- Meta Quest 2/Pro/3/3S (Android)
-- Oculus Rift (S) (not tested)
-
-### Editor:
-__Supported:__
-- Windows 10/11
+- Windows 10/11 (64-bit only)
 - MacOS Intel/ARM*
-- Linux*
-
-__Unsupported:__
-- N/A
+- Linux (x64 and ARM)*
+- Meta Quest 2/Pro/3/3S (Android)
 
 ## Credits
 - MirrorVR Package - [THeTechWiz5305](https://github.com/TheTechWiz5305) and [Shad0w](https://github.com/ShAdowDev16)
@@ -57,4 +49,4 @@ __Unsupported:__
 - [X] Colors
 - [X] Host Migration (WIP)
 - [X] Cosmetics
-- [ ] Steam Login Support
+- [X] Steam Login Support
