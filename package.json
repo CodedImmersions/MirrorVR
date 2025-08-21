@@ -17,12 +17,14 @@
     "Photon",
     "PUN",
     "Fusion",
-    "FishNet"
+    "Fish",
+    "Fish-Net"
   ],
   "author": {
     "name": "MirrorVR",
     "email": "glitchedcatstudios@gmail.com"
   }
 }
+
 
 
