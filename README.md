@@ -10,6 +10,10 @@ MirrorVR is an extension of [Mirror](https://github.com/MirrorNetworking/Mirror)
 > ## _CLOSED EARLY ACCESS IS HERE_
 > Join the Discord (https://discord.gg/WdbyPcSw7Z) to apply for Early Access!
 
+
+> [!NOTE]
+> Once Early Access has ended, MirrorVR will become fully open source, under the GNU LGPLv3 license.
+
 ## Installation
 Follow the guide on the [Wiki](https://mirrorvr.gitbook.io/docs/manual/getting-started).
 
@@ -24,10 +28,16 @@ Follow the guide on the [Wiki](https://mirrorvr.gitbook.io/docs/manual/getting-s
 |CCU (Concurrent Users)|Max 64 players per lobby, unlimited lobbies ✅|20 max free CCU ❌|
 
 ## Supported Devices
-- Windows 10/11 (64-bit only)
+- Windows 10/11
 - MacOS Intel/ARM*
 - Linux (x64 and ARM)*
-- Meta Quest 2/Pro/3/3S (Android)
+- Meta Quest 2/Pro/3/3S (technically Android)
+
+## Supported Login Methods
+- Oculus (User ID and Nonce)
+- Epic Games Account (Auth Interface)
+- Steam (Session Ticket only)
+- Device/Hardware ID (Fallback for any device that doesn't support the others)
 
 ## Credits
 - MirrorVR Package - [THeTechWiz5305](https://github.com/TheTechWiz5305) and [Shad0w](https://github.com/ShAdowDev16)
@@ -38,7 +48,7 @@ Follow the guide on the [Wiki](https://mirrorvr.gitbook.io/docs/manual/getting-s
 - Player Data Storage Utils - PlayEveryWare
 - Default Player Model - Monkeᴰᵉᵛ
 
-<sub>*_Supported with EOS Account Authentication_</sub>
+<sub>*_Supported with EOS Account Authentication in the Editor_</sub>
 
 ## Features (WIP)
 - [X] Oculus login with Authentication
