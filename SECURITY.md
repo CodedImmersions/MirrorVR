@@ -1,10 +1,8 @@
 # Security Policy
 Security is taken very seriously with MirrorVR. We try to make sure that no one can break in easily.
+If you find a vulnerability, please report it with the options below.
 
 ## Supported Versions
-
-Use this section to tell people about which versions of your project are
-Currently being supported with security updates.
 
 | Version | Supported          |
 | ------- | ------------------ |
