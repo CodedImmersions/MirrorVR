@@ -2,6 +2,7 @@
 <a href="https://discord.gg/WdbyPcSw7Z"><img src="https://img.shields.io/badge/discord-brightgreen.svg?style=for-the-badge&logo=discord&colorA=23272a&colorB=7289da" alt="Join our Discord!"></a>
 <a href="https://mirrorvr.gitbook.io"><img src="https://img.shields.io/badge/docs-brightgreen.svg?style=for-the-badge&logo=gitbook&colorA=2a292e&colorB=673de3" alt="Takes you to our Gitbook wiki page."></a>
 <a href="https://github.com/orgs/CodedImmersions/projects/1"><img src="https://img.shields.io/badge/roadmap-brightgreen.svg?style=for-the-badge&logo=pinboard&colorA=2a292e&colorB=32a852" alt="Takes you to our Project Board."></a>
+<a href="https://buymeacoffee.com/codedimmersions"><img src="https://img.shields.io/badge/donate-brightgreen.svg?style=for-the-badge&logo=buymeacoffee&colorA=2a292e&colorB=yellow" alt="Takes you to our Donation Page"></a>
 
 # MirrorVR
 
