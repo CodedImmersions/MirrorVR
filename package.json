@@ -1,31 +1,26 @@
 {
-  "name": "com.mirrorvr.mirrorvr",
+  "name": "com.codedimmersions.mirrorvr",
   "version": "0.2.1.1",
   "displayName": "MirrorVR",
-  "description": "A VR system for Mirror Networking, that makes it easier to develop VR games with Mirror in Unity.",
-  "unity": "2021.3",
-  "unityRelease": "35",
+  "description": "A wrapper for Mirror Networking that adds easy VR support.",
+  "unity": "2022.3",
+  "unityRelease": "0",
   "documentationUrl": "https://mirrorvr.gitbook.io",
-  "changelogUrl": "https://github.com/MirrorVR/MirrorVR/releases",
+  "changelogUrl": "https://github.com/CodedImmersions/MirrorVR/releases",
   "dependencies": {
     "com.unity.nuget.newtonsoft-json": "3.2.1"
  },
  "keywords": [
     "Mirror",
     "VR",
-    "Networking",
+    "Network",
     "Photon",
     "PUN",
     "Fusion",
-    "Fish",
     "Fish-Net"
   ],
   "author": {
-    "name": "MirrorVR",
+    "name": "Coded Immersions",
     "email": "glitchedcatstudios@gmail.com"
   }
 }
-
-
-
-
