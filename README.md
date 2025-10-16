@@ -14,7 +14,7 @@ MirrorVR is an extension of [Mirror](https://github.com/MirrorNetworking/Mirror)
 
 
 > [!NOTE]
-> Once Early Access has ended, MirrorVR will become fully open source, under the GNU LGPLv3 license.
+> Once Early Access has ended (should be by the end of 2025 hopefully), MirrorVR will become fully open source, under the MIT license.
 
 ## Installation
 Follow the guide on the [Wiki](https://mirrorvr.gitbook.io/docs/manual/getting-started)!
