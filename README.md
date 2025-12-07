@@ -19,7 +19,7 @@ MirrorVR is a wrapper for [Mirror Networking](https://github.com/MirrorNetworkin
 
 > [!IMPORTANT]
 > ## _CLOSED EARLY ACCESS IS HERE_
-> Join the Discord (https://discord.gg/mirrorvr) to apply for Early Access!
+> Join the Discord (https://discord.gg/WdbyPcSw7Z) to apply for Early Access!
 
 
 > [!NOTE]
