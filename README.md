@@ -53,7 +53,7 @@ Follow the guide on the [Wiki](https://mirrorvr.gitbook.io/docs/manual/getting-s
 ## Credits
 - MirrorVR Package - [THeTechWiz5305](https://github.com/TheTechWiz5305) and [Shad0w](https://github.com/ShAdowDev16)
 - [Mirror](https://github.com/MirrorNetworking/Mirror) - [Mirror Networking Team](https://github.com/MirrorNetworking)
-- [EOS Transport](https://github.com/WeLoveJesusChrist/EOSTransport) - [FakeByte](https://github.com/FakeByte), [Katone](https://github.com/WeLoveJesusChrist), [TNTube](https://github.com/TNtube), and [Shad0w](https://github.com/ShAdowDev16)
+- [EOS Transport](https://github.com/CodedImmersions/EOSTransport) - [FakeByte](https://github.com/FakeByte), [Katone](https://github.com/WeLoveJesusChrist), [TNTube](https://github.com/TNtube), and [Shad0w](https://github.com/ShAdowDev16)
 - [MetaVoiceChat](https://github.com/Metater/MetaVoiceChat) - [Metater](https://github.com/Metater)
 - Logo - [BBJ](http://discord.com/users/1065060234047004712) and [Anemunt](https://github.com/darkresident55)
 - Player Data Storage Utils - [PlayEveryWare](https://github.com/PlayEveryWare)
