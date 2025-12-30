@@ -23,7 +23,7 @@ MirrorVR is a wrapper for [Mirror Networking](https://github.com/MirrorNetworkin
 
 
 > [!NOTE]
-> Once Early Access has ended (should be by the end of 2025 hopefully), MirrorVR will become fully open source, under the MIT license.
+> Once Early Access has ended (Jan 1st - Feb 1st), MirrorVR will become fully open source, under the MIT license.
 
 ## Installation
 Follow the guide on the [Wiki](https://mirrorvr.gitbook.io/docs/manual/getting-started)!
@@ -42,7 +42,8 @@ Follow the guide on the [Wiki](https://mirrorvr.gitbook.io/docs/manual/getting-s
 - Windows 10/11 (64-bit/ARM officially supported)
 - MacOS Intel/ARM
 - Linux (x64 and ARM)
-- Meta Quest 2/Pro/3/3S (Android ARM64/ARMv7)
+- Meta Quest 2/Pro/3/3S (Android ARM64)
+WebXR is NOT supported.
 
 ## Supported Login Methods
 - Oculus (User ID and Nonce)
@@ -66,6 +67,12 @@ Follow the guide on the [Wiki](https://mirrorvr.gitbook.io/docs/manual/getting-s
 - [X] Join Lobbies via Name
 - [X] Banning (aka Sanctions)
 - [X] Colors
-- [X] Host Migration (WIP)
+- [X] Host Migration
 - [X] Cosmetics
 - [X] Steam Login Support
+- [X] Plus MORE!
+
+## Community Projects
+These are projects by the community to expand on MirrorVR.
+- [CoolPuppyKid's Plugin System](https://github.com/CoolPuppyKid/MVR-Plugins)
+- [GGamer's Addon Scripts](https://github.com/GGamerprogamer/MirrorVRStuffScript)
