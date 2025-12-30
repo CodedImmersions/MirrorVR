@@ -43,6 +43,7 @@ Follow the guide on the [Wiki](https://mirrorvr.gitbook.io/docs/manual/getting-s
 - MacOS Intel/ARM
 - Linux (x64 and ARM)
 - Meta Quest 2/Pro/3/3S (Android ARM64)
+
 WebXR is NOT supported.
 
 ## Supported Login Methods
