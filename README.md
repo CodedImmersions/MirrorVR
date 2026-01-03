@@ -23,7 +23,7 @@ MirrorVR is a wrapper for [Mirror Networking](https://github.com/MirrorNetworkin
 
 
 > [!NOTE]
-> Once Early Access has ended (Jan 1st - Feb 1st), MirrorVR will become fully open source, under the MIT license.
+> Once Early Access has ended (Jaunary 10th, 2026), MirrorVR will become fully open source, under the MIT license.
 
 ## Installation
 Follow the guide on the [Wiki](https://mirrorvr.gitbook.io/docs/manual/getting-started)!

@@ -1,15 +1,17 @@
 {
   "name": "com.codedimmersions.mirrorvr",
-  "version": "0.2.1.1",
+  "version": "0.3",
   "displayName": "MirrorVR",
   "description": "A wrapper for Mirror Networking that adds easy VR support.",
-  "unity": "2022.3",
-  "unityRelease": "0",
-  "documentationUrl": "https://mirrorvr.gitbook.io",
+  "unity": "6000.0",
+  "unityRelease": "38f1",
+  "documentationUrl": "https://codedimmersions.gitbook.io/mirrorvr",
   "changelogUrl": "https://github.com/CodedImmersions/MirrorVR/releases",
   "dependencies": {
-    "com.unity.nuget.newtonsoft-json": "3.2.1"
+    "com.unity.nuget.newtonsoft-json": "3.2.2"
  },
+ "type": "library",
+ "license": "MIT",
  "keywords": [
     "Mirror",
     "VR",
@@ -21,9 +23,7 @@
   ],
   "author": {
     "name": "Coded Immersions",
-    "email": "contact@codedimmersions.com"
-    "website": "https://codedimmersions.com"
+    "email": "contact@codedimmersions.com",
+    "url": "https://codedimmersions.com"
   }
 }
-
-
