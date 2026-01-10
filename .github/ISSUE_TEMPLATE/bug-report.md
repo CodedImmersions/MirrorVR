@@ -2,7 +2,7 @@
 name: Bug Report
 about: Create a report to help us improve
 title: ''
-labels: ''
+labels: bug
 assignees: ''
 
 ---
@@ -26,8 +26,11 @@ If applicable, add screenshots to help explain your problem.
 **Info**
 - Unity Version:
 - MirrorVR Version:
-- Meta Horizon OS version or Windows version:
+- Device Information:
 
 
-**Additional context**
-Add any other context about the problem here.
+**Logs**
+Please attach a .log file with all your logs in it here.
+
+Please follow the guide below to collect logs. Do First Steps, then whatever platform you're using.
+https://codedimmersions.gitbook.io/mirrorvr/manual/faq/mirrorvr-debugging-guide
