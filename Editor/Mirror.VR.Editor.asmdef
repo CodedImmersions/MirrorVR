@@ -1,0 +1,21 @@
+{
+    "name": "Mirror.VR.Editor",
+    "rootNamespace": "Mirror.VR.Editor",
+    "references": [
+        "GUID:30817c1a0e6d646d99c048fc403f5979",
+        "GUID:1c7c33eb5480dd24c9e29a8250c1a775",
+        "GUID:627104647b9c04b4ebb8978a92ecac63",
+        "GUID:b29fb829849bf3b47b45c7b36e9b7254"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

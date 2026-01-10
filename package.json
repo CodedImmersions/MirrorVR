@@ -1,6 +1,6 @@
 {
   "name": "com.codedimmersions.mirrorvr",
-  "version": "0.3",
+  "version": "1.0.0",
   "displayName": "MirrorVR",
   "description": "A wrapper for Mirror Networking that adds easy VR support.",
   "unity": "6000.0",

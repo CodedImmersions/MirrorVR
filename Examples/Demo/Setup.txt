@@ -1,0 +1,19 @@
+Needs XR Interaction Toolkit 2.5.4+ to fully work.
+
+
+HOW TO INSTALL:
+
+1.
+If Unity 6.0 LTS and below:
+Window > Package Manager
+
+If Unity 6.1+:
+Window > Package Management > Package Manager
+
+2. Go to the + (Plus) icon in the top left > Add package by name...
+3. For the name, put in "com.unity.xr.interaction.toolkit"
+4. No need to put version, so just press the install button.
+5. Once it's installed, go to the In Project tab, and search Interaction.
+6. You should now see the package, click on it.
+7. Go to the Samples tab, find Starter Assets, and hit Import.
+8. You should now be all set!

@@ -1,0 +1,22 @@
+{
+    "name": "Mirror.VR.Demo",
+    "rootNamespace": "Mirror.VR.Demo",
+    "references": [
+        "GUID:30817c1a0e6d646d99c048fc403f5979",
+        "GUID:b29fb829849bf3b47b45c7b36e9b7254",
+        "GUID:dbc173c7cf9e0b148811d14369723240",
+        "GUID:5590fd429f9ea92459e11ed7824e0226",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [
+        "WebGL"
+    ],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
