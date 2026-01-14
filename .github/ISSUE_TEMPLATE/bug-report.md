@@ -7,8 +7,11 @@ assignees: ''
 
 ---
 
+**Did you check ‘[Common Problems](https://codedimmersions.gitbook.io/mirrorvr/manual/faq/common-problems)’ in the docs?**
+[Yes/No]
+
 **Describe the bug**
-A clear and concise description of what the bug is.
+A detailed description of the bug.
 
 **To Reproduce**
 Steps to reproduce the behavior:
@@ -18,19 +21,21 @@ Steps to reproduce the behavior:
 4. See error
 
 **Expected behavior**
-A clear and concise description of what you expected to happen.
+Put what you think is supposed to happen here.
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+**Actual behavior**
+Put what actually happens here.
 
-**Info**
-- Unity Version:
-- MirrorVR Version:
-- Device Information:
+**Media**
+Insert media (photos/videos) of the bug happening here.
 
+**Other Info**
+- Occurring Unity Version(s): [ex. 6000.2.7f2, 6000.3.0f1]
+- Occurring MirrorVR Version(s): [ex. 1.0.0]
+- Device Information: [ex. Windows 11 25H2 64-bit]
 
 **Logs**
-Please attach a .log file with all your logs in it here.
+Please attach a .log file containing all your logs here.
 
-Please follow the guide below to collect logs. Do First Steps, then whatever platform you're using.
+Please follow the guide below to collect logs.
 https://codedimmersions.gitbook.io/mirrorvr/manual/faq/mirrorvr-debugging-guide
